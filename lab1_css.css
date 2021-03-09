@@ -1,0 +1,17 @@
+body{
+	background: #DFF4F5;
+}
+
+h2{
+	font-family: lato;
+	font-style: italic;
+	font-style: bold;
+  	font-size: 150%;
+  	text-align: left;
+  	margin-left: 30px;
+}
+
+p{
+	font-family: lato;
+	margin-left: 60px;
+}
